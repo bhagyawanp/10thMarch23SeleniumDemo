@@ -5,7 +5,7 @@ import org.openqa.selenium.support.ui.Select;
 import org.testng.asserts.SoftAssert;
 
 public class commonMethods {
-
+	//adding for demo
 	public static void selectDropdown(WebElement element, int index) {
 
 		WebElement a = element;
