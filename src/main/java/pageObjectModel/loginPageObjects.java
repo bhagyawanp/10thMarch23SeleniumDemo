@@ -5,6 +5,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
 public class loginPageObjects {
+	//Adding for demo purpose
 
 	public WebDriver driver; //This driver don't have scope
 	
