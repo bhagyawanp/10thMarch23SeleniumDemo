@@ -6,6 +6,8 @@ import org.openqa.selenium.WebElement;
 
 public class SignupPageObjects {
 
+	
+	//adding one line for demo by poonam
 	//adding for demo
 	public WebDriver driver; //This driver dont have scope;
 
